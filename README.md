@@ -1,4 +1,4 @@
-#Imgur React Project for HotDrop
+# Imgur React Project for HotDrop
 
 In the project directory, run:
 ### 'npm start'
